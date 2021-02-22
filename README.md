@@ -1,4 +1,4 @@
-# BOJ
+# Baekjoon Online Judge solution
 BOJ solution archive (BOJ id: peaceful1)
 
 https://www.acmicpc.net/<br>
