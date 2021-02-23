@@ -1,5 +1,6 @@
 # Baekjoon Online Judge solution
-BOJ solution archive (BOJ id: peaceful1)
+BOJ solution archive (BOJ id: peaceful1)<br>
+백준 온라인 저지 개인 솔루션 아카이브
 
 https://www.acmicpc.net/<br>
 https://www.acmicpc.net/user/peaceful1
@@ -7,7 +8,7 @@ https://www.acmicpc.net/user/peaceful1
 First upload: 2021.02.22. Mon.<br>
 Last update:  2021.02.22. Mon.
 
-Solution to total 112 problems archived.
+Solutions to total 112 problems archived.
 
 ----------------------------------------+
 
