@@ -1,7 +1,7 @@
 # Baekjoon Online Judge solution
 BOJ solution archive (BOJ id: peaceful1)<br>
 백준 온라인 저지 개인 솔루션 아카이브<br>
-C++, Python
+C++, Python3
 
 https://www.acmicpc.net/<br>
 https://www.acmicpc.net/user/peaceful1
